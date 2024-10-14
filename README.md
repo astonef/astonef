@@ -28,3 +28,10 @@ An NLP-powered app designed to inspire and motivate through poetry during challe
 
 [![Provalo](https://img.shields.io/badge/Try%20this%20app-8A2BE2)](https://leopardoh.vercel.app/)
 
+### WestEgg Editing - Transforming Your Book
+![just for fun](westegg-resized.jpg)  
+**Stack**: Next.js, TailwindCSS, Node.js  
+A transformative platform for enhancing and refining your book into a polished masterpiece.  
+
+[![Provalo](https://img.shields.io/badge/Try%20this%20app-FF6347)](https://west-2-0-1.vercel.app/)
+
