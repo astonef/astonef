@@ -25,3 +25,5 @@ I focus on solving the issues you face with your apps or websites.
 ![just for fun](leop4rdoh-resized.jpg)  
 **Stack**: Next.js, TailwindCSS, Perplexity API, Node.js  
 An NLP-powered app designed to inspire and motivate through poetry during challenging moments  
+[![Provalo](https://img.shields.io/badge/Try%20this%20app-8A2BE2)](https://leopardoh.vercel.app/)
+
