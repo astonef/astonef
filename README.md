@@ -1,3 +1,4 @@
-Always committed to exploring new solutions to foster growth, I apply Agile & Lean methods in communication, organization, and technical development within small-scale projects. With a top-tier university education and extensive experience in IT, I consistently start from what I am currently learning. My greatest asset is empathy, enabling me to quickly identify and address any counterproductive elements. As a consultant in Business Growth and Development Strategies, I leverage a personal mix of sales and organizational systems, marketing, and social media, similar to the principles of Growth Hacking.
+![alt text]()
 
-In front-end development, I use tools such as Astro, Hugo, and React, constantly engaging with new frameworks. Additionally, I have hardware experience in IT within technical services. As a DSA (Specific Learning Disabilities) tutor, particularly in mathematics, I have gained insights into professional coaching. With my skills and approach, I contribute to maximizing the value of common investments.
+Hey there! I'm Stefano. I focus on solving the issues you face with your apps or websites.
+
