@@ -24,5 +24,3 @@ I focus on solving the issues you face with your apps or websites.
 ### [Project 1: LeopardOH - The Cynical AI for Realistic Motivation](https://leopardoh.vercel.app/)
 **Stack**: Next.js, TailwindCSS, Perplexity API, Node.js  
 An NLP-powered app designed to inspire and motivate through poetry during challenging moments  
-
-![Project demo](link-to-screenshot-or-gif.gif)
