@@ -1,4 +1,4 @@
-![just for fun](fxemoji--octopus.png)  
+![just for fun](octo.png)  
 ## Hey there! I'm Stefano 
 I focus on solving the issues you face with your apps or websites.
 
@@ -22,5 +22,6 @@ I focus on solving the issues you face with your apps or websites.
 ## Portfolio
 
 ### [Project 1: LeopardOH - The Cynical AI for Realistic Motivation](https://leopardoh.vercel.app/)
+![just for fun](leop4rdoh-resized.jpg)  
 **Stack**: Next.js, TailwindCSS, Perplexity API, Node.js  
 An NLP-powered app designed to inspire and motivate through poetry during challenging moments  
